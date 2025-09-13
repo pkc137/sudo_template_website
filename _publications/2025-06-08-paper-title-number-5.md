@@ -12,4 +12,4 @@ image: /images/image_1_web.png
 
 This study investigates spatial and temporal fluctations when granular materials of non-convex shaped particles flow through a narrow appertures.
 
-<img src="/images/image_1_web.png" width="600">
+<img src="https://pkc137.github.io/sudo_template_website/images/image_1_web.png" width="600">
