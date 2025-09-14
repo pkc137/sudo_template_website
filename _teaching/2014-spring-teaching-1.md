@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant – Critical State Soil Mechanics"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 venue: "IIT Madras, Civil Engineering Department"
 date: 2021-10-01
 location: "Chennai, India"
