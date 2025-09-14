@@ -9,7 +9,7 @@ venue: 'International Journal of Rock Mechanics and Mining Sciences (Under revie
 paperurl: 'https://dx.doi.org/10.2139/ssrn.5364541'
 citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2025). "Duality of Contact and Damage Mechanics in Tensile Failure of Geomaterials: A Coupled Peridynamic–DEM Investigation." <i>International Journal of Rock Mechanics and Mining Sciences</i>. Under review 1.'
 ---
-<img src="https://pkc137.github.io/sudo_template_website/images/image3.png" width="500">
+<img src="https://pkc137.github.io/sudo_template_website/images/clay_image.png" width="500">
 
 This paper presents a coupled Peridynamics–DEM investigation to capture the duality between contact and damage mechanics during tensile failure of geomaterials. The interplay between damage and contact mechanics in rock and clay is captured using a progressive stiffness degradation function and non-linear rough contact law. 
 
