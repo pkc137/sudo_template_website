@@ -10,6 +10,32 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0013794424007483'
 citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2024). "Investigating Rock Particle Breakage using Coupled Peridynamics-Discrete Element Method: Emphasis on Local Surface Features." <i>Engineering Fracture Mechanics</i>, 312.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<img src="https://pkc137.github.io/sudo_template_website/images/paper_EFM.jpg" width="500">
 
+This paper uses a coupled Peridynamics–DEM framework to investigate rock particle breakage with emphasis on local surface features
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <figure style="text-align: center;">
+    <video width="300" controls>
+      <source src="https://pkc137.github.io/sudo_template_website/images/particle_1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption style="font-size: 0.9em; margin-top: 5px;">(a) Particle a</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <video width="300" controls>
+      <source src="https://pkc137.github.io/sudo_template_website/images/particle_2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption style="font-size: 0.9em; margin-top: 5px;">(b) Particle b</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <video width="300" controls>
+      <source src="https://pkc137.github.io/sudo_template_website/images/particle_3.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <figcaption style="font-size: 0.9em; margin-top: 5px;">(c)Particle c</figcaption>
+  </figure>
+</div>
