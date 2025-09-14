@@ -17,3 +17,11 @@ This study explores the role of complex networks and fabric anisotropy in tempor
   <source src="https://pkc137.github.io/sudo_template_website/images/simple_shear.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<video width="600" controls>
+  <source src="https://pkc137.github.io/sudo_template_website/images/contact_anisotropy_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
