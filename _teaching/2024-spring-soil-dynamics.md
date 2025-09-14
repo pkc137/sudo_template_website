@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant – Geotechnical Engineering II"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023-spring-geotech-ii
+venue: "IIT Madras, Civil Engineering Department"
+date: 2023-01-01
+location: "Chennai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisted with classroom instruction and solved numerical problems on **basic soil mechanics**.
 
 Heading 1
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+(Add lecture notes, exercises, or images if desired.)
