@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-intro-civil
 venue: "IIT Madras, Civil Engineering Department"
-date: 2022-01-01
+date: Spring 2021 
 location: "Chennai, India"
 ---
 
