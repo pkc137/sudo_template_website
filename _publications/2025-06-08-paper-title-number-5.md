@@ -7,9 +7,12 @@ date: 2023-02-01
 venue: 'Powder Technology, 424'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0032591023003005'
 citation: 'Kalyan, N.S.S.P., & Kandasami, R.K. (2023). "Flow Kinematics of Granular Materials Considering Realistic Morphology." <i>Powder Technology</i>, 424.'
-image: /images/image_1_web.png
 ---
+
+<img src="https://pkc137.github.io/sudo_template_website/images/image_1_web.png" width="600">
 
 This study investigates spatial and temporal fluctations when granular materials of non-convex shaped particles flow through a narrow appertures.
 
-<img src="https://pkc137.github.io/sudo_template_website/images/image_1_web.png" width="600">
+<p align="center">
+  <img src="/images/Velocity_flutuations.gif" style="width:70%; max-width:600px;">
+</p>
