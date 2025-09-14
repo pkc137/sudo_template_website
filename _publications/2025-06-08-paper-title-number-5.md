@@ -13,6 +13,4 @@ citation: 'Kalyan, N.S.S.P., & Kandasami, R.K. (2023). "Flow Kinematics of Granu
 
 This study investigates spatial and temporal fluctations when granular materials of non-convex shaped particles flow through a narrow appertures.
 
-<p align="center">
-  <img src="https://pkc137.github.io/sudo_template_website/images/Velocity_flutuations.gif" style="width:70%; max-width:600px;">
-</p>
+<img src="https://pkc137.github.io/sudo_template_website/images/Velocity_flutuations.gif" width="600">
