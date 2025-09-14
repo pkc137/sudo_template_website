@@ -1,15 +1,20 @@
 ---
-title: "Teaching Assistant – Introduction to Civil Engineering"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2022-spring-intro-civil
-venue: "IIT Madras, Civil Engineering Department"
-date: Spring 2021 
-location: "Chennai, India"
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-Handled **problem solving sessions** and **exam paper correction** for the *Introduction to Civil Engineering* course.
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
-(Add more content if needed.)
+
+Heading 2
+======
+
+Heading 3
+======
