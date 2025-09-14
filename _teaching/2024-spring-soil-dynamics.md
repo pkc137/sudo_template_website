@@ -2,14 +2,8 @@
 title: "Teaching Assistant – Geotechnical Engineering II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-geotech-ii
 venue: "IIT Madras, Civil Engineering Department"
 date: 2023-01-01
 location: "Chennai, India"
+external_url: "https://home.iitm.ac.in/rameshkk/assets/pdf/Syllabus_CE3350_Geotechnical_Engineering_II_2023.pdf"
 ---
-
-Assisted with classroom instruction and solved numerical problems on **basic soil mechanics**.
-
-Heading 1
-======
-(Add lecture notes, exercises, or images if desired.)

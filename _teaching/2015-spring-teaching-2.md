@@ -9,8 +9,3 @@ location: "Chennai, India"
 ---
 
 Handled **problem solving sessions** and **exam paper correction** for the *Introduction to Civil Engineering* course.
-
-Heading 1
-======
-(Add more content if needed.)
-
