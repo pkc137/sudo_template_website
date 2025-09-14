@@ -12,28 +12,22 @@ citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2024). "Investiga
 
 This paper uses a coupled Peridynamics–DEM framework to investigate rock particle breakage with emphasis on local surface features. Realistic morphologies are captured using advanced mesh-generation approaches.  This paper uses a coupled Peridynamics–DEM framework to investigate rock particle breakage with emphasis on local surface features. Realistic morphologies are captured using advanced mesh-generation approaches. 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="text-align: center;">
-    <video width="300" controls>
-      <source src="https://pkc137.github.io/sudo_template_website/images/Particle1.mp4" type="video/mp4">
+    <video width="400" controls>
+      <source src="https://pkc137.github.io/sudo_template_website/images/Particle11.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption style="font-size: 0.9em; margin-top: 5px;">(a) Particle a</figcaption>
+    <figcaption style="font-size: 0.9em; margin-top: 5px;">Particle a</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <video width="300" controls>
-      <source src="https://pkc137.github.io/sudo_template_website/images/Particle2.mp4" type="video/mp4">
+    <video width="400" controls>
+      <source src="https://pkc137.github.io/sudo_template_website/images/Particle21.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <figcaption style="font-size: 0.9em; margin-top: 5px;">(b) Particle b</figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-    <video width="300" controls>
-      <source src="https://pkc137.github.io/sudo_template_website/images/Particle3.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <figcaption style="font-size: 0.9em; margin-top: 5px;">(c)Particle c</figcaption>
+    <figcaption style="font-size: 0.9em; margin-top: 5px;"> Particle b</figcaption>
   </figure>
 </div>
+
+
