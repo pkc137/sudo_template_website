@@ -10,14 +10,14 @@ Kalyan is a Senior Project Associate at the Department of Civil Engineering, Ind
 
 Education 
 ------
-1. Ph.D. in Civil Engineering (Geotechnical Engineering)
--Indian Institute of Technology Madras, Chennai
--April 2021 – September 2025
--Thesis: Discrete–Continuum Modelling of Fracture and Contact in Granular Materials
+**Ph.D. in Civil Engineering (Geotechnical Engineering)**  
+Indian Institute of Technology Madras, Chennai  
+April 2021 – September 2025  
+**Thesis:** *Discrete–Continuum Modelling of Fracture and Contact in Granular Materials*  
 
-2. M.S. by Research in Civil Engineering
--Indian Institute of Technology Madras, Chennai
--July 2019 – March 2021
+**M.S. by Research in Civil Engineering**  
+Indian Institute of Technology Madras, Chennai  
+July 2019 – March 2021  
 
 
 Research interests
