@@ -10,14 +10,15 @@ Kalyan is a Senior Project Associate at the Department of Civil Engineering, Ind
 
 Education 
 ------
-<p>1. Ph.D. in Civil Engineering (Geotechnical Engineering) </p>  
-<p> Indian Institute of Technology Madras, Chennai </p>   
-<p> April 2021 – September 2025 </p> 
-<p> **Thesis:** *Discrete–Continuum Modelling of Fracture and Contact in Granular Materials* </p>  
+1. **Ph.D. in Civil Engineering (Geotechnical Engineering)**  
+Indian Institute of Technology Madras, Chennai <br>
+April 2021 – September 2025 <br>
+**Thesis:** *Discrete–Continuum Modelling of Fracture and Contact in Granular Materials*
 
-<p> **M.S. by Research in Civil Engineering** </p>  
-<p> Indian Institute of Technology Madras, Chennai </p>   
-<p> July 2019 – March 2021 </p> 
+2. **M.S. by Research in Civil Engineering**  
+Indian Institute of Technology Madras, Chennai <br>
+July 2019 – March 2021
+
 
 
 Research interests
@@ -27,7 +28,7 @@ Research interests
 3. Image processing and 3D reconstruction
 4. Rock Mechanics
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -73,4 +74,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
