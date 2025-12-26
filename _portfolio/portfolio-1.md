@@ -1,6 +1,5 @@
 ---
 title: "Modelling Fracture and Contact in Geomaterials"
-
 excerpt:<img src="https://pkc137.github.io/sudo_template_website/images/Graphical_abs.png" width="300">
 collection: portfolio 
 ---
