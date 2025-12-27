@@ -8,8 +8,8 @@ Modeling fracture in geomaterials having distinct strength and stiffness is comp
 <img src="https://pkc137.github.io/sudo_template_website/images/LS_DEM_2.png" width="600">
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <figure style="text-align: center;">
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+  <figure style="text-align: left;">
     <video width="400" controls>
       <source src="https://pkc137.github.io/sudo_template_website/images/PD_DEM.mp4" type="video/mp4">
       Your browser does not support the video tag.
