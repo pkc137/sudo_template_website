@@ -6,7 +6,7 @@ permalink: /publication/2025-duality-contact-damage
 date: 2025-07-01
 venue: 'SSRN Preprint (Under review)'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.5364541'
-citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2025). "Duality of Contact and Damage Mechanics in Tensile Failure of Geomaterials: A Coupled Peridynamic–DEM Investigation." <i>Preprint</i>. Under review 1.'
+citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2026). "Duality of Contact and Damage Mechanics in Tensile Failure of Geomaterials: A Coupled Peridynamic–DEM Investigation." <i>Preprint</i>. Accepted Rock mechanics and Rock Engineering.'
 ---
 <img src="https://pkc137.github.io/sudo_template_website/images/clay_image.png" width="600">
 
