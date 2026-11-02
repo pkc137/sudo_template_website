@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Pavan Kalyan is a postdoctoral researcher at School of Architecture, Civil and Environmental Engineering (ENAC) at EPFL, Switzerland. Before this he obtained integrated M.S. + Ph.D. from IIT Madras in September 2025, focusing on the numerical modeling of fracture and contact in granular materials. His research explores the micro-scale behavior of geomaterials using particle-based numerical methods, including the Discrete Element Method (DEM) and Peridynamics (PD). Kalyan developed a GPU-accelerated concurrent coupling framework that integrates PD and DEM through a non-local force distribution scheme, enabling efficient simulation of complex fracture processes. Additionally, he applies graph network analysis to DEM simulation data to reveal the self-organization and strain localization behavior of granular assemblies, providing new insights into their underlying micromechanical mechanisms.
+Pavan Kalyan is a postdoctoral researcher at the Computational Solid Mechanics Laboratory (LSMS), School of Architecture, Civil and Environmental Engineering (ENAC), EPFL, Switzerland. Before this he obtained integrated M.S. + Ph.D. from IIT Madras in September 2025, focusing on the numerical modeling of fracture and contact in granular materials. His research explores the micro-scale behavior of geomaterials using particle-based numerical methods, including the Discrete Element Method (DEM) and Peridynamics (PD). Kalyan developed a GPU-accelerated concurrent coupling framework that integrates PD and DEM through a non-local force distribution scheme, enabling efficient simulation of complex fracture processes. Additionally, he applies graph network analysis to DEM simulation data to reveal the self-organization and strain localization behavior of granular assemblies, providing new insights into their underlying micromechanical mechanisms.
+
+Experience
+------
+1. **Postdoctoral Researcher**  
+Computational Solid Mechanics Laboratory (LSMS), ENAC, EPFL, Lausanne, Switzerland <br>
+May 2026 – Present
 
 Education 
 ------
