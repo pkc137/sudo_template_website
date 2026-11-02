@@ -1,12 +1,12 @@
 ---
-title: "Duality of Contact and Damage Mechanics in Tensile Failure of Geomaterials: A Coupled Peridynamic–DEM Investigation"
+title: "Fundamental Interplay of Contact and Damage Mechanics During Tensile Fracture of Geomaterials"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-duality-contact-damage
-date: 2025-07-01
-venue: 'Rock mechanics and Rock Engineering (accepted)'
-paperurl: 'https://dx.doi.org/10.2139/ssrn.5364541'
-citation: 'Kalyan, N.S.S.P., Fukumoto, Y. and Kandasami, R.K. (2026). "Duality of Contact and Damage Mechanics in Tensile Failure of Geomaterials: A Coupled Peridynamic–DEM Investigation." <i>Preprint</i>.'
+date: 2026-07-27
+venue: 'Rock Mechanics and Rock Engineering'
+paperurl: 'https://doi.org/10.1007/s00603-026-05738-y'
+citation: 'Kalyan, N.S.S.P., Fukumoto, Y., Kandasami, R.K. and Shimbo, T. (2026). "Fundamental Interplay of Contact and Damage Mechanics During Tensile Fracture of Geomaterials." <i>Rock Mechanics and Rock Engineering</i>. https://doi.org/10.1007/s00603-026-05738-y'
 ---
 <img src="https://pkc137.github.io/sudo_template_website/images/clay_image.png" width="600">
 
