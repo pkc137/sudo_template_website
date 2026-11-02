@@ -26,14 +26,14 @@ Rock fracture at high strain rates
 Under impact, rock is loaded at very high strain rates, which changes its strength and the way it fragments. Here a 10 mm steel ball strikes a free 100 mm rock cube at 2 km/s, with a rate-dependent strength and Weibull-distributed heterogeneity in the rock.
 
 <div style="display: flex; justify-content: center;">
-  <figure style="text-align: center; max-width: 320px; margin: 1em 0;">
+  <figure style="text-align: center; max-width: 200px; margin: 1em 0;">
     <img src="https://pkc137.github.io/sudo_template_website/images/impact_setup.jpg" style="width: 100%;">
     <figcaption style="width: 100%; font-size: 0.9em; margin-top: 5px;">(a) Setup: 10 mm steel ball impacting a 100 mm rock cube at 2 km/s</figcaption>
   </figure>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <figure style="flex: 1 1 320px; max-width: 420px; text-align: center; margin: 1em 0;">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <figure style="width: 100%; text-align: center; margin: 1em 0;">
     <video style="width: 100%;" autoplay loop muted playsinline controls>
       <source src="https://pkc137.github.io/sudo_template_website/images/impact_radial_cracks.mp4" type="video/mp4">
       Your browser does not support the video tag.
@@ -41,7 +41,7 @@ Under impact, rock is loaded at very high strain rates, which changes its streng
     <figcaption style="width: 100%; font-size: 0.9em; margin-top: 5px;">(b) Radial cracks, seen from above on a cut 25 mm below the impacted face</figcaption>
   </figure>
 
-  <figure style="flex: 1 1 320px; max-width: 420px; text-align: center; margin: 1em 0;">
+  <figure style="width: 100%; text-align: center; margin: 1em 0;">
     <video style="width: 100%;" autoplay loop muted playsinline controls>
       <source src="https://pkc137.github.io/sudo_template_website/images/impact_crack_network.mp4" type="video/mp4">
       Your browser does not support the video tag.
